@@ -4,17 +4,6 @@ This is a minimal Electron application for searching gifs using giphy.
 
 ![Demo](http://g.recordit.co/pNIMuJOKgr.gif)
 
-## To Use
-
-Clone this repository:
-```bash
-git clone https://github.com/MatthewRDodds/giphy-search
-```
-
-Add your Giphy API key in `renderer.js`:
-```js
-const apiKey = 'YOUR_KEY'
-```
 
 Run the app locally:
 ```bash
